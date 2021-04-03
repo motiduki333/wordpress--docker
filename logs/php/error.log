@@ -1,0 +1,177 @@
+[19-Mar-2021 14:12:42 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\front-page.php on line 36
+[19-Mar-2021 15:44:51 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 34
+[19-Mar-2021 15:44:54 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 34
+[19-Mar-2021 15:46:30 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 52
+[19-Mar-2021 15:46:32 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 52
+[19-Mar-2021 15:46:46 UTC] PHP Warning:  Use of undefined constant ture - assumed 'ture' (this will throw an Error in a future version of PHP) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 41
+[19-Mar-2021 15:46:46 UTC] PHP Stack trace:
+[19-Mar-2021 15:46:46 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[19-Mar-2021 15:46:46 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[19-Mar-2021 15:46:46 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:13
+[19-Mar-2021 15:46:46 UTC] PHP   4. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-load.php:37
+[19-Mar-2021 15:46:46 UTC] PHP   5. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-config.php:77
+[19-Mar-2021 15:46:46 UTC] PHP   6. do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-settings.php:560
+[19-Mar-2021 15:46:46 UTC] PHP   7. WP_Hook->do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\plugin.php:484
+[19-Mar-2021 15:46:46 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:316
+[19-Mar-2021 15:46:46 UTC] PHP   9. cpt_register_news() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:292
+[19-Mar-2021 15:46:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php:41) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\header.php on line 1
+[19-Mar-2021 15:46:47 UTC] PHP Stack trace:
+[19-Mar-2021 15:46:47 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[19-Mar-2021 15:46:47 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[19-Mar-2021 15:46:47 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:19
+[19-Mar-2021 15:46:47 UTC] PHP   4. include() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php:106
+[19-Mar-2021 15:46:47 UTC] PHP   5. get_header() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\front-page.php:1
+[19-Mar-2021 15:46:47 UTC] PHP   6. locate_template() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\general-template.php:48
+[19-Mar-2021 15:46:47 UTC] PHP   7. load_template() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template.php:676
+[19-Mar-2021 15:46:47 UTC] PHP   8. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template.php:730
+[19-Mar-2021 15:46:47 UTC] PHP   9. header() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\header.php:1
+[19-Mar-2021 15:46:49 UTC] PHP Warning:  Use of undefined constant ture - assumed 'ture' (this will throw an Error in a future version of PHP) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 41
+[19-Mar-2021 15:46:49 UTC] PHP Stack trace:
+[19-Mar-2021 15:46:49 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[19-Mar-2021 15:46:49 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[19-Mar-2021 15:46:49 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:13
+[19-Mar-2021 15:46:49 UTC] PHP   4. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-load.php:37
+[19-Mar-2021 15:46:49 UTC] PHP   5. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-config.php:77
+[19-Mar-2021 15:46:49 UTC] PHP   6. do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-settings.php:560
+[19-Mar-2021 15:46:49 UTC] PHP   7. WP_Hook->do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\plugin.php:484
+[19-Mar-2021 15:46:49 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:316
+[19-Mar-2021 15:46:49 UTC] PHP   9. cpt_register_news() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:292
+[19-Mar-2021 15:46:51 UTC] PHP Warning:  Use of undefined constant ture - assumed 'ture' (this will throw an Error in a future version of PHP) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 41
+[19-Mar-2021 15:46:51 UTC] PHP Stack trace:
+[19-Mar-2021 15:46:51 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[19-Mar-2021 15:46:51 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[19-Mar-2021 15:46:51 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:13
+[19-Mar-2021 15:46:51 UTC] PHP   4. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-load.php:37
+[19-Mar-2021 15:46:51 UTC] PHP   5. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-config.php:77
+[19-Mar-2021 15:46:51 UTC] PHP   6. do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-settings.php:560
+[19-Mar-2021 15:46:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\plugin.php:484
+[19-Mar-2021 15:46:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:316
+[19-Mar-2021 15:46:51 UTC] PHP   9. cpt_register_news() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:292
+[19-Mar-2021 15:46:53 UTC] PHP Warning:  Use of undefined constant ture - assumed 'ture' (this will throw an Error in a future version of PHP) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 41
+[19-Mar-2021 15:46:53 UTC] PHP Stack trace:
+[19-Mar-2021 15:46:53 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[19-Mar-2021 15:46:53 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[19-Mar-2021 15:46:53 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:13
+[19-Mar-2021 15:46:53 UTC] PHP   4. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-load.php:37
+[19-Mar-2021 15:46:53 UTC] PHP   5. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-config.php:77
+[19-Mar-2021 15:46:53 UTC] PHP   6. do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-settings.php:560
+[19-Mar-2021 15:46:53 UTC] PHP   7. WP_Hook->do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\plugin.php:484
+[19-Mar-2021 15:46:53 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:316
+[19-Mar-2021 15:46:53 UTC] PHP   9. cpt_register_news() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:292
+[19-Mar-2021 15:46:56 UTC] PHP Warning:  Use of undefined constant ture - assumed 'ture' (this will throw an Error in a future version of PHP) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php on line 41
+[19-Mar-2021 15:46:56 UTC] PHP Stack trace:
+[19-Mar-2021 15:46:56 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[19-Mar-2021 15:46:56 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[19-Mar-2021 15:46:56 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:13
+[19-Mar-2021 15:46:56 UTC] PHP   4. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-load.php:37
+[19-Mar-2021 15:46:56 UTC] PHP   5. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-config.php:77
+[19-Mar-2021 15:46:56 UTC] PHP   6. do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-settings.php:560
+[19-Mar-2021 15:46:56 UTC] PHP   7. WP_Hook->do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\plugin.php:484
+[19-Mar-2021 15:46:56 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:316
+[19-Mar-2021 15:46:56 UTC] PHP   9. cpt_register_news() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:292
+[19-Mar-2021 15:46:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php:41) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\pluggable.php on line 1329
+[19-Mar-2021 15:46:56 UTC] PHP Stack trace:
+[19-Mar-2021 15:46:56 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[19-Mar-2021 15:46:56 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[19-Mar-2021 15:46:56 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:19
+[19-Mar-2021 15:46:56 UTC] PHP   4. do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php:45
+[19-Mar-2021 15:46:56 UTC] PHP   5. WP_Hook->do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\plugin.php:484
+[19-Mar-2021 15:46:56 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:316
+[19-Mar-2021 15:46:56 UTC] PHP   7. do_favicon() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:292
+[19-Mar-2021 15:46:56 UTC] PHP   8. wp_redirect() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\functions.php:1688
+[19-Mar-2021 15:46:56 UTC] PHP   9. header() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\pluggable.php:1329
+[19-Mar-2021 15:46:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\functions.php:41) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\pluggable.php on line 1332
+[19-Mar-2021 15:46:56 UTC] PHP Stack trace:
+[19-Mar-2021 15:46:56 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[19-Mar-2021 15:46:56 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[19-Mar-2021 15:46:56 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:19
+[19-Mar-2021 15:46:56 UTC] PHP   4. do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php:45
+[19-Mar-2021 15:46:56 UTC] PHP   5. WP_Hook->do_action() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\plugin.php:484
+[19-Mar-2021 15:46:56 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:316
+[19-Mar-2021 15:46:56 UTC] PHP   7. do_favicon() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\class-wp-hook.php:292
+[19-Mar-2021 15:46:56 UTC] PHP   8. wp_redirect() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\functions.php:1688
+[19-Mar-2021 15:46:56 UTC] PHP   9. header() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\pluggable.php:1332
+[19-Mar-2021 23:36:36 UTC] PHP Parse error:  syntax error, unexpected '_query' (T_STRING) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\test\front-page.php on line 14
+[20-Mar-2021 07:50:20 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 25
+[20-Mar-2021 07:52:34 UTC] PHP Warning:  Use of undefined constant the_post - assumed 'the_post' (this will throw an Error in a future version of PHP) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 10
+[20-Mar-2021 07:52:34 UTC] PHP Stack trace:
+[20-Mar-2021 07:52:34 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[20-Mar-2021 07:52:34 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[20-Mar-2021 07:52:34 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:19
+[20-Mar-2021 07:52:34 UTC] PHP   4. include() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php:106
+[20-Mar-2021 07:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:20
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 20
+[20-Mar-2021 07:52:36 UTC] PHP Warning:  Use of undefined constant the_post - assumed 'the_post' (this will throw an Error in a future version of PHP) in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 10
+[20-Mar-2021 07:52:36 UTC] PHP Stack trace:
+[20-Mar-2021 07:52:36 UTC] PHP   1. {main}() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:0
+[20-Mar-2021 07:52:36 UTC] PHP   2. require() C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php:17
+[20-Mar-2021 07:52:36 UTC] PHP   3. require_once() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php:19
+[20-Mar-2021 07:52:36 UTC] PHP   4. include() C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php:106
+[20-Mar-2021 07:52:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:20
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 20
+[20-Mar-2021 07:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:20
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 20
+[20-Mar-2021 07:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:20
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 20
+[20-Mar-2021 08:23:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:20
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 20
+[20-Mar-2021 08:23:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:20
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 20
+[20-Mar-2021 08:24:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:20
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 20
+[20-Mar-2021 08:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:20
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 20
+[20-Mar-2021 08:28:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_except() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:22
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 22
+[20-Mar-2021 08:28:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_except() in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php:22
+Stack trace:
+#0 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Owner\\...')
+#2 C:\Users\Owner\Local Sites\syakaihoken\app\public\index.php(17): require('C:\\Users\\Owner\\...')
+#3 {main}
+  thrown in C:\Users\Owner\Local Sites\syakaihoken\app\public\wp-content\themes\wordpress\index.php on line 22

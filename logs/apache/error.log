@@ -1,0 +1,32 @@
+[Fri Mar 19 16:22:37.432118 2021] [mpm_winnt:notice] [pid 19308:tid 952] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Fri Mar 19 16:22:37.487082 2021] [mpm_winnt:notice] [pid 19308:tid 952] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Mar 19 16:22:37.487082 2021] [core:notice] [pid 19308:tid 952] AH00094: Command line: 'C:\\Users\\Owner\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Owner/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Owner\\AppData\\Roaming\\Local\\run\\k9JXqHAVd\\conf\\apache\\apache2.conf'
+[Fri Mar 19 16:22:37.520129 2021] [mpm_winnt:notice] [pid 19308:tid 952] AH00418: Parent: Created child process 13288
+[Fri Mar 19 16:22:39.000219 2021] [mpm_winnt:notice] [pid 13288:tid 960] AH00354: Child: Starting 64 worker threads.
+[Sat Mar 20 10:34:10.664578 2021] [core:warn] [pid 15916:tid 764] AH00098: pid file C:/Users/Owner/AppData/Roaming/Local/run/k9JXqHAVd/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 20 10:34:10.690582 2021] [mpm_winnt:notice] [pid 15916:tid 764] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Sat Mar 20 10:34:10.690582 2021] [mpm_winnt:notice] [pid 15916:tid 764] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Mar 20 10:34:10.690582 2021] [core:notice] [pid 15916:tid 764] AH00094: Command line: 'C:\\Users\\Owner\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Owner/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Owner\\AppData\\Roaming\\Local\\run\\k9JXqHAVd\\conf\\apache\\apache2.conf'
+[Sat Mar 20 10:34:10.755583 2021] [mpm_winnt:notice] [pid 15916:tid 764] AH00418: Parent: Created child process 15260
+[Sat Mar 20 10:34:13.056647 2021] [mpm_winnt:notice] [pid 15260:tid 1060] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 21 09:34:01.580947 2021] [mpm_winnt:crit] [pid 15260:tid 1060] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Mar 22 15:51:36.704417 2021] [core:warn] [pid 7192:tid 664] AH00098: pid file C:/Users/Owner/AppData/Roaming/Local/run/k9JXqHAVd/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 22 15:51:36.710416 2021] [mpm_winnt:notice] [pid 7192:tid 664] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Mon Mar 22 15:51:36.710416 2021] [mpm_winnt:notice] [pid 7192:tid 664] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Mar 22 15:51:36.710416 2021] [core:notice] [pid 7192:tid 664] AH00094: Command line: 'C:\\Users\\Owner\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Owner/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Owner\\AppData\\Roaming\\Local\\run\\k9JXqHAVd\\conf\\apache\\apache2.conf'
+[Mon Mar 22 15:51:36.715418 2021] [mpm_winnt:notice] [pid 7192:tid 664] AH00418: Parent: Created child process 16032
+[Mon Mar 22 15:51:38.043202 2021] [mpm_winnt:notice] [pid 16032:tid 1004] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 22 19:48:03.032525 2021] [mpm_winnt:crit] [pid 16032:tid 1004] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Mar 22 19:48:03.156762 2021] [mpm_winnt:warn] [pid 16032:tid 984] (OS 995)スレッドの終了またはアプリケーションの要求によって、I/O 処理は中止されました。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Mar 22 19:48:03.269764 2021] [mpm_winnt:warn] [pid 16032:tid 920] (OS 995)スレッドの終了またはアプリケーションの要求によって、I/O 処理は中止されました。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Mar 22 19:48:05.048788 2021] [mpm_winnt:notice] [pid 16032:tid 1004] AH00364: Child: All worker threads have exited.
+[Mon Mar 22 20:27:05.191748 2021] [core:warn] [pid 16940:tid 712] AH00098: pid file C:/Users/Owner/AppData/Roaming/Local/run/k9JXqHAVd/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 22 20:27:05.194750 2021] [mpm_winnt:notice] [pid 16940:tid 712] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Mon Mar 22 20:27:05.194750 2021] [mpm_winnt:notice] [pid 16940:tid 712] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Mar 22 20:27:05.194750 2021] [core:notice] [pid 16940:tid 712] AH00094: Command line: 'C:\\Users\\Owner\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Owner/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Owner\\AppData\\Roaming\\Local\\run\\k9JXqHAVd\\conf\\apache\\apache2.conf'
+[Mon Mar 22 20:27:05.199744 2021] [mpm_winnt:notice] [pid 16940:tid 712] AH00418: Parent: Created child process 17608
+[Mon Mar 22 20:27:06.379752 2021] [mpm_winnt:notice] [pid 17608:tid 960] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 23 09:00:14.701586 2021] [mpm_winnt:crit] [pid 17608:tid 960] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Mar 23 09:00:15.180825 2021] [mpm_winnt:warn] [pid 17608:tid 1720] (OS 995)スレッドの終了またはアプリケーションの要求によって、I/O 処理は中止されました。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Mar 23 09:00:15.220838 2021] [mpm_winnt:warn] [pid 17608:tid 928] (OS 995)スレッドの終了またはアプリケーションの要求によって、I/O 処理は中止されました。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Mar 23 09:00:16.727071 2021] [mpm_winnt:notice] [pid 17608:tid 960] AH00364: Child: All worker threads have exited.
